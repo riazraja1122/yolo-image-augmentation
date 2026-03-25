@@ -1,0 +1,7 @@
+inp_img_pth : /home/dev/Desktop/aug/augment/inputs/rikshaw/images
+inp_lab_pth : /home/dev/Desktop/aug/augment/inputs/rikshaw/labels
+out_img_pth : /home/dev/Desktop/aug/augment/output/images
+out_lab_pth : /home/dev/Desktop/aug/augment/output/labels
+out_sample_pth : /home/dev/Desktop/aug/augment/output/samplesBboxes
+transformed_file_name : aug
+CLASSES : [others, special veh, mil truck, mil jeep, rickshaw, trolley]
